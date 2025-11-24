@@ -5,3 +5,9 @@ The program saves the QR image in the output folder
 -Generate QR Code from URL provided
 -Save QR images automatically in the output folder
 -Easy to use and run in the terminal
+## Tech Stack
+Language: Python
+Libraries: qrcode, Pillow
+## Requirements
+pip install qrcode
+pip install pillow
